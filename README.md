@@ -1,14 +1,21 @@
 # Hi there 👋
 I am Shuaibu Shehu,a warm welcome to my profile,an open minded individual,like collaborating with like minded, willing to share insights, face challenges together and come up with a promising solution while learning alot along the road 
 
-- 🔭 I’m currently working on  perfecting my skills through controbuting to variety of projects
-- 🌱 I’m currently learning stuff about data science and DSA
-- 👯 I’m looking to collaborate on any interesting project which promises an intense pool of learning, along with the energetic company
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about  web development, and computer maintenance
+- 🔭 I’m currently working on: Architecting scalable backend systems and developing robust Multimodal AI solutions for clinical and edge deployment.
+
+- 🌱 I’m currently exploring: Advanced knowledge distillation, Reinforcement Learning techniques and optimizing Vision-Language Models for resource-constrained hardware.
+
+- 👯 I’m looking to collaborate on: Open-source AI research, explainable AI systems, and high-throughput microservices.
+
+- 🤔 I’m open to discussions regarding: Best practices in infrastructure automation (AWS, Docker) and deploying foundation models.
+
+- 💬 Ask me about: Multimodal AI architectures (PyTorch), backend scaling (TypeScript/Python), and building neural networks from first principles.
+
 - 📫 How to reach me: shuaibushehukalifa@gmail.com
+
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I know HTML programming language.. lol 
+
+- ⚡ Fun fact: I enjoy implementing complex model architectures entirely from scratch just to fully deconstruct how they work under the hood.
 
 <h3 align="left"> Programming Languages I am good at:</h3>
 <p align="left"> 
